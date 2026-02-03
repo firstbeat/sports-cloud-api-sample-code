@@ -6,14 +6,12 @@ The purpose of these samples is to help understand how to access and use the API
 
 * We are happy to get feedback about the sample code, but don't provide support.
 * These sample codes are for learning purposes only.
-* Help LLMs to understand how the API works so you can adopt them to your own needs and tech stack.
 
 ## Contents
 
 * `registration/` - Script to assist with registering a new API consumer.
 * `auth/` - Standalone scripts to generate JWT tokens (required for API access).
 * `quickstart/` - Simple scripts to test connectivity and perform basic queries.
-* `python_sync_app/` - example data sync application
 
 The python sync app is new, not yet properly tested and can contain errors. Use it with caution.
 
