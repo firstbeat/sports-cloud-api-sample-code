@@ -208,3 +208,8 @@ __marimo__/
 
 # misc
 materials/
+
+# Feature branch work (python_sync_app development)
+# These directories are tracked in feature/sync-app branch only
+python_sync_app/
+src/
