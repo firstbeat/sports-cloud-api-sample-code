@@ -13,12 +13,6 @@ The purpose of these samples is to help understand how to access and use the API
 * `auth/` - Standalone scripts to generate JWT tokens (required for API access).
 * `quickstart/` - Simple scripts to test connectivity and perform basic queries.
 
-The python sync app is new, not yet properly tested and can contain errors. Use it with caution.
-
 ## API Documentation
 
 You can find the API documentation at [https://apidocs.firstbeat.com](https://apidocs.firstbeat.com).
-
-## Contributing
-
-If you want to contribute your solutions to be shared here, please contact us.
