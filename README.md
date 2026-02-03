@@ -1,4 +1,4 @@
-# Firstbeat Srpots Cloud API Sample Code
+# Firstbeat Sports Cloud API Sample Code
 
 This repository contains sample code how to use Firstbeat Sports Cloud API.
 
