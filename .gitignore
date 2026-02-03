@@ -213,3 +213,4 @@ materials/
 # These directories are tracked in feature/sync-app branch only
 python_sync_app/
 src/
+GEMINI.md
