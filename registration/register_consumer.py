@@ -40,7 +40,7 @@ examples:
     uv run registration/register_consumer.py
 
   Automated mode:
-    uv run registration/register_consumer.py --consumer-name "My Team Analytics" --yes
+    uv run registration/register_consumer.py --consumer-name "Fitview Analytics Ltd" --yes
         """,
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
@@ -67,12 +67,13 @@ def prompt_consumer_name(input_fn=input) -> str:
     print("An API consumer is your application's identity for accessing the API.\n")
 
     print("!!! Choosing a Consumer Name !!!")
-    print("Your 'consumerName' helps Firstbeat support identify your integration.")
+    print("Your 'consumerName' helps coaches identify your integration.")
     print("It cannot be changed later.")
     print("\nGOOD Examples:")
-    print("  * 'FC Firstbeat Data Hub'")
     print("  * 'Jyväskylä Bears Analytics'")
+    print("  * 'Anton Bailey - S&C coach'")
     print("\nBAD Examples:")
+    print("  * 'Firstbeat API connection'")
     print("  * 'api_test'")
     print("  * 'script_1'\n")
 
