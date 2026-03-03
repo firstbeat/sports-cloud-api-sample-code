@@ -12,6 +12,7 @@ The purpose of these samples is to help understand how to access and use the API
 * `registration/` - Script to assist with registering a new API consumer.
 * `auth/` - Standalone scripts to generate JWT tokens (required for API access).
 * `quickstart/` - Simple scripts to test connectivity and perform basic queries.
+* `timeseries_decode/` - Example how to decompress and decode time series data.
 
 ## API Documentation
 
