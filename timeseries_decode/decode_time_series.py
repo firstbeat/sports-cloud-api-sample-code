@@ -174,6 +174,8 @@ def decode_measurement(
     decoded_variables: list[dict[str, Any]] = []
 
     for variable in variables:
+        if "type" not in variable:
+            continue
         decoded_values = decode_base64_time_series(
             encoded_value=variable["value"],
             vartype=variable["type"],

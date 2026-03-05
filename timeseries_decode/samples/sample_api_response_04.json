@@ -1,0 +1,341 @@
+{
+    "athleteId": 416370,
+    "endTime": "2026-03-03T17:54:39Z",
+    "exerciseType": "Indoor bike",
+    "measurementId": 15218998,
+    "measurementType": "exercise",
+    "sessionId": 0,
+    "sportsType": "indoorCycling",
+    "startTime": "2026-03-03T16:12:27Z",
+    "variables": [
+        {
+            "name": "acuteTrainingLoad",
+            "value": 628.6809539794922
+        },
+        {
+            "name": "acwr",
+            "value": 0.7907086344828984
+        },
+        {
+            "name": "aerobicTrainingEffect",
+            "value": 3.6
+        },
+        {
+            "name": "anaerobicTrainingEffect",
+            "value": 2.6
+        },
+        {
+            "name": "cadenceAverage",
+            "unit": "min⁻¹",
+            "value": 75
+        },
+        {
+            "name": "chronicTrainingLoad",
+            "value": 795.0854797363281
+        },
+        {
+            "name": "energyConsumptionCarbs",
+            "unit": "kcal",
+            "value": 616.2792333466258
+        },
+        {
+            "name": "energyConsumptionFats",
+            "unit": "kcal",
+            "value": 469.1824182212937
+        },
+        {
+            "name": "energyConsumptionTotal",
+            "unit": "kcal",
+            "value": 1085.4616515679195
+        },
+        {
+            "name": "epocFinal",
+            "unit": "ml/kg",
+            "value": 71.11065673828125
+        },
+        {
+            "name": "epocPeak",
+            "unit": "ml/kg",
+            "value": 130.2323455810547
+        },
+        {
+            "name": "heartRateAverage",
+            "unit": "min⁻¹",
+            "value": 118
+        },
+        {
+            "name": "heartRateAveragePercentage",
+            "unit": "%",
+            "value": 67.42857142857143
+        },
+        {
+            "name": "heartRateLowest",
+            "unit": "min⁻¹",
+            "value": 69
+        },
+        {
+            "name": "heartRateMinimumPercentage",
+            "unit": "%",
+            "value": 39.42857142857143
+        },
+        {
+            "name": "heartRatePeak",
+            "unit": "min⁻¹",
+            "value": 165
+        },
+        {
+            "name": "heartRatePeakPercentage",
+            "unit": "%",
+            "value": 94.28571428571428
+        },
+        {
+            "name": "heartRateRecoveryAbsolute120s",
+            "unit": "bpm",
+            "value": 42
+        },
+        {
+            "name": "heartRateRecoveryAbsolute30s",
+            "unit": "bpm",
+            "value": 19
+        },
+        {
+            "name": "heartRateRecoveryAbsolute60s",
+            "unit": "bpm",
+            "value": 29
+        },
+        {
+            "name": "heartRateRecoveryRelative120s",
+            "unit": "%",
+            "value": 24
+        },
+        {
+            "name": "heartRateRecoveryRelative30s",
+            "unit": "%",
+            "value": 10.857142448425291
+        },
+        {
+            "name": "heartRateRecoveryRelative60s",
+            "unit": "%",
+            "value": 16.571428298950195
+        },
+        {
+            "name": "hfAverage",
+            "unit": "ms²",
+            "value": 11.81084921883011
+        },
+        {
+            "name": "lfAverage",
+            "unit": "ms²",
+            "value": 61.864599643694525
+        },
+        {
+            "name": "lfHfRatio",
+            "unit": "%",
+            "value": 620.1743261680971
+        },
+        {
+            "name": "measurementError",
+            "unit": "%",
+            "value": 2.7044219970703125
+        },
+        {
+            "name": "oxygenConsumptionAverage",
+            "unit": "ml/kg/min",
+            "value": 28.31341552734375
+        },
+        {
+            "name": "oxygenConsumptionAveragePercentage",
+            "unit": "%",
+            "value": 47.18902587890625
+        },
+        {
+            "name": "oxygenConsumptionMaximumPercentage",
+            "unit": "%",
+            "value": 87.23599751790364
+        },
+        {
+            "name": "oxygenConsumptionPeak",
+            "unit": "ml/kg/min",
+            "value": 52.34159851074219
+        },
+        {
+            "name": "playerStatusScore",
+            "value": 78.52660232144534
+        },
+        {
+            "name": "powerAverage",
+            "unit": "W",
+            "value": 182
+        },
+        {
+            "name": "respirationRateAverage",
+            "unit": "min⁻¹",
+            "value": 35.199017241027875
+        },
+        {
+            "name": "respirationRatePeak",
+            "unit": "min⁻¹",
+            "value": 55.967599913686136
+        },
+        {
+            "name": "rmssd",
+            "unit": "ms",
+            "value": 5.337961965277175
+        },
+        {
+            "name": "sdnn",
+            "unit": "ms",
+            "value": 94.65569953950649
+        },
+        {
+            "name": "trimp",
+            "value": 125.35833740234376
+        },
+        {
+            "name": "trimpPerMinHighest10min",
+            "unit": "min⁻¹",
+            "value": 2.6576828002929687
+        },
+        {
+            "name": "trimpPerMinHighest15min",
+            "unit": "min⁻¹",
+            "value": 2.4774749755859373
+        },
+        {
+            "name": "trimpPerMinHighest1h",
+            "unit": "min⁻¹",
+            "value": 1.6742799381691766
+        },
+        {
+            "name": "trimpPerMinHighest1min",
+            "unit": "min⁻¹",
+            "value": 3.3657684326171875
+        },
+        {
+            "name": "trimpPerMinHighest20min",
+            "unit": "min⁻¹",
+            "value": 2.44998488166841
+        },
+        {
+            "name": "trimpPerMinHighest2min",
+            "unit": "min⁻¹",
+            "value": 3.2306137084960938
+        },
+        {
+            "name": "trimpPerMinHighest30min",
+            "unit": "min⁻¹",
+            "value": 2.4126278328495983
+        },
+        {
+            "name": "trimpPerMinHighest30s",
+            "unit": "min⁻¹",
+            "value": 3.437469482421875
+        },
+        {
+            "name": "trimpPerMinHighest3min",
+            "unit": "min⁻¹",
+            "value": 3.034845987955729
+        },
+        {
+            "name": "trimpPerMinHighest45min",
+            "unit": "min⁻¹",
+            "value": 1.955034787770097
+        },
+        {
+            "name": "trimpPerMinHighest45s",
+            "unit": "min⁻¹",
+            "value": 3.398152669270833
+        },
+        {
+            "name": "trimpPerMinHighest4min",
+            "unit": "min⁻¹",
+            "value": 2.830657958984375
+        },
+        {
+            "name": "trimpPerMinHighest5min",
+            "unit": "min⁻¹",
+            "value": 2.786700439453125
+        },
+        {
+            "name": "trimpPerMinute",
+            "unit": "min⁻¹",
+            "value": 1.22698974609375
+        },
+        {
+            "name": "underZonesTime",
+            "unit": "min",
+            "value": 4.7666666666666835
+        },
+        {
+            "name": "ventilationAverage",
+            "unit": "l/min",
+            "value": 51.313967507659285
+        },
+        {
+            "name": "ventilationPeak",
+            "unit": "l/min",
+            "value": 115.20224505273426
+        },
+        {
+            "name": "vlfAverage",
+            "unit": "ms²",
+            "value": 10.052685529337394
+        },
+        {
+            "name": "zone1Time",
+            "unit": "min",
+            "value": 9.733333333333333
+        },
+        {
+            "name": "zone2Time",
+            "unit": "min",
+            "value": 18.933333333333334
+        },
+        {
+            "name": "zone3Time",
+            "unit": "min",
+            "value": 4.45
+        },
+        {
+            "name": "zone4Time",
+            "unit": "min",
+            "value": 46.73333333333333
+        },
+        {
+            "name": "zone5Time",
+            "unit": "min",
+            "value": 17.55
+        },
+        {
+            "bits": 16,
+            "name": "energyConsumptionSeries",
+            "samplingRate": "0.2Hz",
+            "type": "Unsigned",
+            "unit": "kcal/h",
+            "value": "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"
+        },
+        {
+            "bits": 64,
+            "name": "epocSeries",
+            "samplingRate": "0.2Hz",
+            "type": "Float",
+            "unit": "ml/kg",
+            "value": "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"
+        },
+        {
+            "bits": 8,
+            "name": "heartRateSeries",
+            "samplingRate": "0.2Hz",
+            "type": "Unsigned",
+            "unit": "min⁻¹",
+            "value": "eJw1UmlX6kgQ/XXvzJw3qKM+WVxIQrrT+xJCwhsPHhHlqBCQyBLCjoz/c07HsT4kXdVV91bd6h8/TgpHhcJx4ejk6I8/f/5VKBydHh2fnxcvihe/Lo4LJ+enp2enf/86Oz6/OLsoFsvFUqlSLlXKlUqxUr6+qpQqF8VSqVyuXF5e3Vg1p1qtVm8sx6lalmU5lmXblm07NduxqlXLsi3bsRynBoELXABqAEAIAHABBB6EALqe57qua0IuBPkBQui5oOZ6yENYUMqY4Iwyyhil5se54EJwwaXAhGCMKaWcEgSgByCCCCOEsPkgQhgjFGPKMKGcM8YZI5gggr5SMMbI8wghBjuHFwRh5BGMTIyaGi4bmnFGCPIY5ZJzyjjFHgCOZTk3VcupAYQ8ZIbxPAiAhzGTFFMKIUTIIDMuhZRSMHNUgnFhXCmlUkJI35dcMoIhgNCA2NXr8mXl6ub6ygY1YFqkTHBKMcYEIQINlxHGTEA8Sk33lDIhldbaV1oyYZi4kEpp31fKUEut8/u6NFJSowlGRPpBoxH9bjajRhBo7QdCKc4410opJbVWvq913dcG2A98I70QSvm+r6QUZgptMpTS2uxDCJ6vRitlyJTWeZZQ9SgQfl2Za6Wk4PnqKCPE7IdRwqhR2xQb43kR5xQho6DneR7K5zEqEsZcF1Svbcd2XNe9smsucCy3BqDrAmiWSjnFlDAZ3D48Pj49PT11Htp3t/8EytdBoxFGzdbTcJIu1pvtbrffblarLMvmWbY0/nazXi7m81mavCWDfv/1+bnbeeg8drvdl5fXXq/X78eDeDAYxPGg3+/3er3Xfq83GI6Scbpcbza7/X632+0+Pg6Hw+fn5+e/h8N+v92uV4ssnU0n42T09jZKkvF0lqbZYrFYGOp5mqazb0vT3EvT2XfUBObzeZZlC9PnV006+44tl6vVaplDzdPZbDp+T5JkNBzE/Th+eX021uk8tu/uW61W667dvm+32+3OY/elPxwlychkxoN+HMeD4fAtGU8ms2y13u7MBIfDx8fH3miyWmTzNJ1MpoZ2sV6vV+vVcpHOZuP35P19Mhkbm0yn6ddYy+VytfnfvhLH72/xa7dzf3/Xat02w7AZhWEQmlfkB1HDvCFf+/UgCBph2KjXfd8PGmHuRs1mMwyjKAzDRm5hGIW/m2EURc3oP1b8NrQ="
+        },
+        {
+            "bits": 64,
+            "name": "trimpSeries",
+            "samplingRate": "0.2Hz",
+            "type": "Float",
+            "value": "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"
+        }
+    ]
+}
